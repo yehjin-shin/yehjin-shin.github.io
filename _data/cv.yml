@@ -4,9 +4,9 @@
     - name: Name
       value: Yehjin Shin
     - name: Email
-      value: [yehjin.shin@yonsei.ac.kr](yehjin.shin@yonsei.ac.kr)
+      value: <a href="yehjin.shin@yonsei.ac.kr">yehjin.shin@yonsei.ac.kr</a>
     - name: URL
-      value: [https://yehjin-shin.github.io](https://yehjin-shin.github.io)
+      value: <a href="https://yehjin-shin.github.io">https://yehjin-shin.github.io</a>
     - name: Languages
       value: Korean, English
 
@@ -34,12 +34,12 @@
       institution: BigDyl (Big Data Analytics Laboratory)
       year: 2023~
       description:
-        - Advised by Noseong Park
+        - Advised by <a href="https://sites.google.com/view/noseong">Noseong Park</a>.
     - title: Undergraduate Student Researcher
       institution: BigDyl (Big Data Analytics Laboratory)
       year: 2021-2023
       description:
-        - Advised by Noseong Park
+        - Advised by <a href="https://sites.google.com/view/noseong">Noseong Park</a>.
 
     - title: Data Analyst
       institution: Mondrian AI
