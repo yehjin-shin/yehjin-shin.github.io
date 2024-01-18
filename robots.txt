@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yehjin-shin.github.io/blog/sitemap.xml
+Sitemap: https://yehjin-shin.github.io//sitemap.xml
