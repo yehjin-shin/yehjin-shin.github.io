@@ -13,13 +13,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master Course
+    - title: M.S. candidate
       institution: Yonsei University, South Korea
       year: 2023~
       description:
         - GPA 4.21/4.3
         - Combined Bachelor’s‐Master’s Degree Program Scholarships (full tuition waiver for 3 semesters of master’s program)
-    - title: Undergraduate
+    - title: B.A. in Applied Statistics & B.S. in Computer Science
       institution: Yonsei University, South Korea
       year: 2019-2023
       description:
@@ -34,12 +34,12 @@
       institution: BigDyl (Big Data Analytics Laboratory)
       year: 2023~
       description:
-        - Research Adviosr\: Prof.Noseong Park
+        - Advised by Noseong Park
     - title: Undergraduate Student Researcher
       institution: BigDyl (Big Data Analytics Laboratory)
       year: 2021-2023
       description:
-        - Research Adviosr\: Prof.Noseong Park
+        - Advised by Noseong Park
 
     - title: Data Analyst
       institution: Mondrian AI
