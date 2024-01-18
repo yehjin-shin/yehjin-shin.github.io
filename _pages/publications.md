@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /Publications/
 title: publications
 description: My research interests include recommender systems and tabular data learning.
 years: [2024, 2022]
