@@ -1,14 +1,5 @@
 ---
 ---
-@inproceedings{kim2022sos,
-  title={SOS: Score-based oversampling for tabular data},
-  author={Kim, Jayoung and Lee, Chaejeong and Shin, Yehjin and Park, Sewon and Kim, Minjung and Park, Noseong and Cho, Jihoon},
-  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  pages={762--772},
-  arxiv={2206.08555},
-  abstract={Score-based generative models (SGMs) are a recent breakthrough in generating fake images. SGMs are known to surpass other generative models, e.g., generative adversarial networks (GANs) and variational autoencoders (VAEs). Being inspired by their big success, in this work, we fully customize them for generating fake tabular data. In particular, we are interested in oversampling minor classes since imbalanced classes frequently lead to sub-optimal training outcomes. To our knowledge, we are the first presenting a score-based tabular data oversampling method. Firstly, we re-design our own score network since we have to process tabular data. Secondly, we propose two options for our generation method: the former is equivalent to a style transfer for tabular data and the latter uses the standard generative policy of SGMs. Lastly, we define a fine-tuning method, which further enhances the oversampling quality. In our experiments with 6 datasets and 10 baselines, our method outperforms other oversampling methods in all cases.},
-  year={2022}
-}
 
 @article{shin2023attentive,
   title={An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention},
@@ -26,4 +17,15 @@
   abstract={Time series imputation is one of the most fundamental tasks for time series. Real-world time series datasets are frequently incomplete (or irregular with missing observations), in which case imputation is strongly required. Many different time series imputation methods have been proposed. Recent self-attention-based methods show the state-of-the-art imputation performance. However, it has been overlooked for a long time to design an imputation method based on continuous-time recurrent neural networks (RNNs), i.e., neural controlled differential equations (NCDEs). To this end, we redesign time series (variational) autoencoders based on NCDEs. Our method, called continuous-time autoencoder (CTA), encodes an input time series sample into a continuous hidden path (rather than a hidden vector) and decodes it to reconstruct and impute the input. In our experiments with 4 datasets and 19 baselines, our method shows the best imputation performance in almost all cases.},
   arkiv={2312.16581}
   year={2024}
+}
+
+
+@inproceedings{kim2022sos,
+  title={SOS: Score-based oversampling for tabular data},
+  author={Kim, Jayoung and Lee, Chaejeong and Shin, Yehjin and Park, Sewon and Kim, Minjung and Park, Noseong and Cho, Jihoon},
+  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={762--772},
+  arxiv={2206.08555},
+  abstract={Score-based generative models (SGMs) are a recent breakthrough in generating fake images. SGMs are known to surpass other generative models, e.g., generative adversarial networks (GANs) and variational autoencoders (VAEs). Being inspired by their big success, in this work, we fully customize them for generating fake tabular data. In particular, we are interested in oversampling minor classes since imbalanced classes frequently lead to sub-optimal training outcomes. To our knowledge, we are the first presenting a score-based tabular data oversampling method. Firstly, we re-design our own score network since we have to process tabular data. Secondly, we propose two options for our generation method: the former is equivalent to a style transfer for tabular data and the latter uses the standard generative policy of SGMs. Lastly, we define a fine-tuning method, which further enhances the oversampling quality. In our experiments with 6 datasets and 10 baselines, our method outperforms other oversampling methods in all cases.},
+  year={2022}
 }
