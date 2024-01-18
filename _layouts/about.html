@@ -35,7 +35,11 @@ layout: default
             {%- endif %}
           </div>
           {%- endif %}
-
+              
+          <div class="clearfix">
+            {{ content }}
+          </div>
+              
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
@@ -49,10 +53,6 @@ layout: default
 
             </div>
           {%- endif %}
-              
-          <div class="clearfix">
-            {{ content }}
-          </div>
               
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
