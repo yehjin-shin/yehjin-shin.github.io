@@ -45,26 +45,34 @@
       institution: Mondrian AI
       year: 2021.06 ~ 2021.08
 
-- title: Publication1
+- title: Publication1 list
   type: list
   contents:
     - title: SOS
       year: hi
 
-- title: Publication2
-  type: list_groups
-  contents:
-    - title: SOS
-      year: hi
-
-- title: Publication3
+- title: Publication2 map
   type: map
   contents:
-    - title: SOS
-      year: hi
+    - name: SOS
+      links: hi
+        - name: 1
+        - name: 2
 
-- title: Publication4
+- title: Publication3 list_groups
+  type: list_groups
+  contents:
+    - name: SOS
+      school: hi
+      time: hihi
+    - name: SOS22
+      school: hi
+      time: hihi
+
+- title: Publication4 nested_list
   type: nested_list
   contents:
-    - title: SOS
-      year: hi
+    - name: SOS
+      links: hi
+        - name: 1
+        - name: 2
