@@ -54,9 +54,10 @@
 - title: Publication3list_groups
   type: list_groups
   contents:
-    - name: SOS
-      school: hi
-      time: hihi
-    - name: SOS22
-      school: hi
-      time: hihi
+    - items:
+      - name: SOS
+        school: hi
+        time: hihi
+      - name: SOS22
+        school: hi
+        time: hihi
