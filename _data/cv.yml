@@ -45,13 +45,13 @@
       institution: Mondrian AI
       year: 2021.06 ~ 2021.08
 
-- title: Publication1 list
+- title: Publication1list
   type: list
   contents:
     - title: SOS
       year: hi
 
-- title: Publication2 map
+- title: Publication2map
   type: map
   contents:
     - name: SOS
@@ -59,7 +59,7 @@
         - name: 1
         - name: 2
 
-- title: Publication3 list_groups
+- title: Publication3list_groups
   type: list_groups
   contents:
     - name: SOS
@@ -69,7 +69,7 @@
       school: hi
       time: hihi
 
-- title: Publication4 nested_list
+- title: Publication4nested_list
   type: nested_list
   contents:
     - title: SOS
