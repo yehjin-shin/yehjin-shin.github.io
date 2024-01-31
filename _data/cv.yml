@@ -48,7 +48,7 @@
 - title: Publication
   type: nested_list
   contents:
-    - title: An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention
+    - title: <a href="https://arxiv.org/abs/2312.10325">An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention</a>
       items:
         - Yehjin Shin, Jeongwhan Choi, Hyowon Wi, and Noseong Park
         - In Proceedings of the AAAI Conference on Artificial Intelligence, 2024
