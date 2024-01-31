@@ -80,9 +80,11 @@
 - title: Publication4nested_list
   type: nested_list
   contents:
-    - items:
+    - title: hi
+      items:
       - hi there
       - me too
-    - items:
+    - title: namename
+      item:
       - name1
       - name2
