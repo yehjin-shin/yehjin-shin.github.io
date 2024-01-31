@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. candidate
+    - title: M.S. candidate in Computer Science
       institution: Yonsei University, South Korea
       year: 2023.03 ~
       description:
@@ -45,3 +45,8 @@
       institution: Mondrian AI
       year: 2021.06 ~ 2021.08
 
+- title: Publication
+  type: time_table
+  contents:
+    - title: SOS
+      year: hi
