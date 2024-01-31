@@ -45,8 +45,26 @@
       institution: Mondrian AI
       year: 2021.06 ~ 2021.08
 
-- title: Publication
-  type: time_table
+- title: Publication1
+  type: list
+  contents:
+    - title: SOS
+      year: hi
+
+- title: Publication2
+  type: list_groups
+  contents:
+    - title: SOS
+      year: hi
+
+- title: Publication3
+  type: map
+  contents:
+    - title: SOS
+      year: hi
+
+- title: Publication4
+  type: nested_list
   contents:
     - title: SOS
       year: hi
