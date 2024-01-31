@@ -51,24 +51,6 @@
     - title: SOS
       year: hi
 
-- title: Publication2map
-  type: map
-  contents:
-    - name: SOS
-      links: hi
-        - name: 1
-        - name: 2
-
-- title: Publication3list_groups
-  type: list_groups
-  contents:
-    - name: SOS
-      school: hi
-      time: hihi
-    - name: SOS22
-      school: hi
-      time: hihi
-
 - title: Publication4nested_list
   type: nested_list
   contents:
