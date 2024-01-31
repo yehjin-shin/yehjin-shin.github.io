@@ -68,3 +68,21 @@
       - name: SOS22
         school: school
         time: time
+
+- title: Publication2map
+  type: map
+  contents:
+    - value: SOS
+      links:
+        - name: a1
+        - name: a2
+
+- title: Publication4nested_list
+  type: nested_list
+  contents:
+    - items:
+      - hi there
+      - me too
+    - items:
+      - name1
+      - name2
