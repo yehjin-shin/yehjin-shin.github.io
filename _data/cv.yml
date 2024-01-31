@@ -54,10 +54,17 @@
 - title: Publication3list_groups
   type: list_groups
   contents:
+    - icon: iconhi
     - items:
       - name: SOS
-        school: hi
-        time: hihi
+        school: school
+        time: time
       - name: SOS22
-        school: hi
-        time: hihi
+        school: school
+        time: time
+      - name: SOS
+        school: school
+        time: time
+      - name: SOS22
+        school: school
+        time: time
