@@ -51,10 +51,3 @@
     - title: SOS
       year: hi
 
-- title: Publication4nested_list
-  type: nested_list
-  contents:
-    - title: SOS
-      links: hi
-        - name: 1
-        - name: 2
