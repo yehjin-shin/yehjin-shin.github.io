@@ -72,7 +72,7 @@
 - title: Publication4 nested_list
   type: nested_list
   contents:
-    - name: SOS
+    - title: SOS
       links: hi
         - name: 1
         - name: 2
