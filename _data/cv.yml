@@ -50,7 +50,7 @@
   contents:
     - title: '<a href="https://arxiv.org/abs/2312.07753">Polynomial-based Self-Attention for Table Representation learning</a>'
       items:
-        - Jayoung Kim, Yehjin Shin, and Noseong Park
+        - Jayoung Kim, Yehjin Shin, Jeongwhan Choi, Hyowon Wi, and Noseong Park
         - In International Conference on Machine Learning, 2024
     - title: '<a href="https://arxiv.org/abs/2312.10325">An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention</a>'
       items:
