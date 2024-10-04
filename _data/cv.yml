@@ -13,9 +13,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. candidate in Computer Science
+    - title: Ph.D. in Computer Science
+      institution: Korea Advanced Institute of Science and Technology (KAIST), South Korea
+      year: 2024.09 ~
+      description:
+        - GPA - / -
+    - title: M.S. in Computer Science
       institution: Yonsei University, South Korea
-      year: 2023.03 ~
+      year: 2023.03 ~ 2024.08
       description:
         - GPA 4.21 / 4.3
         - Combined Bachelor’s‐Master’s Degree Program Scholarships (full tuition waiver for 3 semesters of master’s program)
@@ -48,6 +53,10 @@
 - title: Publication
   type: nested_list
   contents:
+    - title: '<a href="https://arxiv.org/abs/2312.04234">Graph Convolutions Enrich the Self-Attention in Transformers!</a>'
+      items:
+        - Jeongwhan Choi, Hyowon Wi, Jayoung Kim, Yehjin Shin, Kookjin Lee, Nathaniel Trask, and Noseong Park
+        - In Neural Information Processing Systems, 2024
     - title: '<a href="https://arxiv.org/abs/2312.07753">Polynomial-based Self-Attention for Table Representation learning</a>'
       items:
         - Jayoung Kim, Yehjin Shin, Jeongwhan Choi, Hyowon Wi, and Noseong Park
