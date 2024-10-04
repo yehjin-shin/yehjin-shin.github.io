@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graduate Student at Yonsei University
+subtitle: Ph.D. Student at KAIST
 
 profile:
   align: left
