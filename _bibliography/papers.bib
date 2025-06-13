@@ -1,5 +1,29 @@
 ---
 ---
+@inproceedings{shin2025mamba,
+  title={Graph Signal Processing Meets Mamba2: Adaptive Filter Bank via Delta Modulation},
+  author={Shin, Yehjin and Kim, Seojin and Park, Noseong},
+  booktitle={Workshop on Efficient Systems for Foundation Models III @ ICML2025},
+  abbr={ICML Workshop},
+  arkiv={},
+  abstract={State-space models (SSMs) provide efficient alternatives to attention with linear-time recurrence. Mamba2, a recent SSM-based language model, employs selective input gating and a multi-head structure for parallel computation and strong performance. However, its multi-head recurrence operates independently without structured utilization or analysis. In this work, we introduce \textbf{H}ierarchical \textbf{AD}aptive filter bank for \textbf{E}fficient \textbf{S}SMs (\textit{HADES}), a GSP-inspired framework that reinterprets Mamba2 as an adaptive filter bank on a line graph. \textit{HADES} features two filter types: shared filters for global low-pass behavior and expert filters for local high-pass behavior, achieved via structured bias on parameter . \textit{HADES} matches baseline models, including Mamba2, on key benchmark tasks while using only \textbf{58.9%} of the original parameters.},
+  year={2025},
+  pdf={},
+  selected=True
+}
+
+@inproceedings{kim2025mamba,
+  title={Mitigating Over-Smoothing in Mamba2 via Spectral Domain Analysis},
+  author={Kim, Seojin and Shin, Yehjin and Park, Noseong},
+  booktitle={Workshop on Efficient Systems for Foundation Models III @ ICML2025},
+  abbr={ICML Workshop},
+  arkiv={},
+  abstract={Mamba2, a rising contender against transformer-based architectures, has garnered significant attention for its impressive performance across diverse tasks, sparking a wave of research into its analysis and improvement. In this paper, we investigate Mamba2 through the lens of spectral analysis, uncovering a critical structural bias: Mamba2 inherently functions as a low-pass filter, leading to over-smoothing. Over-smoothing, where token representations become overly uniform, hampers the model’s ability to capture rich and diverse features, ultimately contributing to performance degradation. To address this, we propose a straightforward yet effective high-frequency enhancement method. By selectively amplifying high-frequency components at the layer level, our approach mitigates the over-smoothing effect, restoring token diversity and improving representational richness. Experiments confirm the efficacy of our method, demonstrating its ability to enhance Mamba2’s performance across key tasks.},
+  year={2025},
+  pdf={},
+  selected=True
+}
+
 @inproceedings{choi2023graph,
   title={Graph Convolutions Enrich the Self-Attention in Transformers!},
   author={Choi, Jeongwhan and Wi, Hyowon and Kim, Jayoung and Shin, Yehjin and Lee, Kookjin and Trask, Nathaniel and Park, Noseong},
