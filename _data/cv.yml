@@ -35,11 +35,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Student Researcher
-      institution: BigDyl (Big Data Analytics Laboratory)
-      year: 2023.03 ~
+    - title: Research Intern
+      institution: Microsoft Research
+      year: 2025.07 ~ 2025.12
       description:
-        - Advised by <a href="https://sites.google.com/view/noseong">Noseong Park</a>.
+        - Mentored by <a href="https://serendipitycoding.github.io">Jiamin Li</a>.
     - title: Graduate Student Researcher
       institution: BigDyl (Big Data Analytics Laboratory)
       year: 2023.03 ~
