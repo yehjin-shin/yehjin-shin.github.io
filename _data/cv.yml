@@ -17,7 +17,7 @@
       institution: Korea Advanced Institute of Science and Technology (KAIST), South Korea
       year: 2024.09 ~
       description:
-        - GPA - / -
+        - GPA 3.7 / 4.3
     - title: M.S. in Computer Science
       institution: Yonsei University, South Korea
       year: 2023.03 ~ 2024.08
@@ -35,6 +35,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: Microsoft
+      year: 2025.07 ~ 2025.12 (Expected)
+      description:
+        - Mentor: <a href="https://serendipitycoding.github.io">Jiamin Li</a>
     - title: Graduate Student Researcher
       institution: BigDyl (Big Data Analytics Laboratory)
       year: 2023.03 ~
@@ -53,6 +58,14 @@
 - title: Publication
   type: nested_list
   contents:
+    - title: Graph Signal Processing Meets Mamba2: Adaptive Filter Bank via Delta Modulation
+      items:
+        - Yehjin Shin, Seojin Kim, and Noseong Park
+        - In Workshop on Efficient Systems for Foundation Models at ICML, 2025
+    - title: Mitigating Over-Smoothing in Mamba2 via Spectral Domain Analysis
+      items:
+        - Seojin Kim, Yehjin Shin, and Noseong Park
+        - In Workshop on Efficient Systems for Foundation Models at ICML, 2025
     - title: '<a href="https://arxiv.org/abs/2312.04234">Graph Convolutions Enrich the Self-Attention in Transformers!</a>'
       items:
         - Jeongwhan Choi, Hyowon Wi, Jayoung Kim, Yehjin Shin, Kookjin Lee, Nathaniel Trask, and Noseong Park
