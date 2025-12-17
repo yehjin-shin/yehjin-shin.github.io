@@ -5,6 +5,8 @@
   author={Shin, Yehjin and Choi, Jeongwhan and Wi, Hyowon and Kim, Seojin and Park, Noseong},
   booktitle={Neural Information Processing Systems},
   abbr={Neurips},
+  arxiv={2510.25259},
+  pdf={https://arxiv.org/pdf/2510.25259.pdf},
   abstract={Recently, convolutional filters have been increasingly adopted in sequential recommendation for their ability to capture local sequential patterns. However, most of these models complement convolutional filters with self-attention. This is because convolutional filters alone, generally fixed filters, struggle to capture global interactions necessary for accurate recommendation. We propose \textbf{T}ime-\textbf{V}ariant Convolutional Filters for Sequential \textbf{Rec}ommendation (TV-Rec), a model inspired by graph signal processing, where time-variant graph filters dynamically adapt to temporal positions in user sequences. By replacing both fixed kernels and self-attention with time-variant filters, TV-Rec achieves higher expressive power and better captures complex interaction patterns in user behavior. This design not only eliminates the need for self-attention but also reduces computation while accelerating inference. Extensive experiments on six public benchmarks show that TV-Rec outperforms ten state-of-the-art baselines by an average of 7.49\%.},
   year={2025},
   selected=True
@@ -18,7 +20,7 @@
   arkiv={},
   abstract={State-space models (SSMs) provide efficient alternatives to attention with linear-time recurrence. Mamba2, a recent SSM-based language model, employs selective input gating and a multi-head structure for parallel computation and strong performance. However, its multi-head recurrence operates independently without structured utilization or analysis. In this work, we introduce \textbf{H}ierarchical \textbf{AD}aptive filter bank for \textbf{E}fficient \textbf{S}SMs (\textit{HADES}), a GSP-inspired framework that reinterprets Mamba2 as an adaptive filter bank on a line graph. \textit{HADES} features two filter types: shared filters for global low-pass behavior and expert filters for local high-pass behavior, achieved via structured bias on parameter . \textit{HADES} matches baseline models, including Mamba2, on key benchmark tasks while using only \textbf{58.9%} of the original parameters.},
   year={2025},
-  pdf={},
+  pdf={https://openreview.net/pdf?id=cH0OxrmfdL},
   selected=True
 }
 
@@ -30,7 +32,7 @@
   arkiv={},
   abstract={Mamba2, a rising contender against transformer-based architectures, has garnered significant attention for its impressive performance across diverse tasks, sparking a wave of research into its analysis and improvement. In this paper, we investigate Mamba2 through the lens of spectral analysis, uncovering a critical structural bias: Mamba2 inherently functions as a low-pass filter, leading to over-smoothing. Over-smoothing, where token representations become overly uniform, hampers the model’s ability to capture rich and diverse features, ultimately contributing to performance degradation. To address this, we propose a straightforward yet effective high-frequency enhancement method. By selectively amplifying high-frequency components at the layer level, our approach mitigates the over-smoothing effect, restoring token diversity and improving representational richness. Experiments confirm the efficacy of our method, demonstrating its ability to enhance Mamba2’s performance across key tasks.},
   year={2025},
-  pdf={},
+  pdf={https://openreview.net/pdf?id=r08kqzrito},
   selected=True
 }
 
